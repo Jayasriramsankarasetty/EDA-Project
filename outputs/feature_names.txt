@@ -1,0 +1,1 @@
+Literacy_Rate\nSex_Ratio\nWork_Participation_Rate\nChild_Population_Ratio\nSC_Population_Percent\nST_Population_Percent\nGender_Literacy_Gap\nTOT_P\n
